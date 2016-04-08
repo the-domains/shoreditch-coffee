@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shoreditch Coffee]]></title>
         <description><![CDATA[Shoreditch Coffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shoreditch-coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:00:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 20:38:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shoreditch-coffee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73d19b09-e832-49c8-9afb-31c60eb12fcf.jpg">]]></description>
-            <link>undefinedwere-pretty-excited-about-the-london-coffee-festival-this-w/index.html</link>
+            <link>https://thegrid.ai/shoreditch-coffee/were-pretty-excited-about-the-london-coffee-festival-this-w/index.html</link>
             <guid isPermaLink="false">9f1852c5-e1a9-49e0-a76f-8f5ae1fe0a0d</guid>
-            <pubDate>Fri, 08 Apr 2016 20:00:19 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2016 20:38:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
