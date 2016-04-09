@@ -1,9 +1,7 @@
-favicon: null
 name: Shoreditch Coffee
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1653587031178176
+typography_spectrum: 0.1523297
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Everything coffee in Shoreditch
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-76168272-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6382097280584276
-  brandStrength: 0.9231161242350936
-  rhythmicContrast: 0.9464657122734934
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.9231161242350936
   lightness: 0.8038581244181842
-typography_spectrum: 0.1523297
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.1653587031178176
-analytics:
-  twitter: null
-  google: UA-76168272-1
-  facebook: null
+  saturation: 0.6382097280584276
+  rhythmicContrast: 0.9464657122734934
+purpose: []
