@@ -4,8 +4,15 @@
         <description><![CDATA[Everything coffee in Shoreditch]]></description>
         <link>http://shoreditch.coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 12:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 13:13:01 GMT</lastBuildDate>
         <atom:link href="http://shoreditch.coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Delicious Pelican Rouge coffee from Belgium]]></title>
+            <description><![CDATA[<article><h1>Delicious Pelican Rouge coffee from Belgium</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19688a60-95ee-440d-9eec-96287e6bfaf5.png"></article>]]></description>
+            <link>http://shoreditch.coffee/delicious-pelican-rouge-coffee-from-belgium/index.html</link>
+            <guid isPermaLink="false">0e6b3a46-65c5-4a2f-9fb8-cfdc756c1f24</guid>
+            <pubDate>Sun, 10 Apr 2016 13:11:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starbucks Tea Bar]]></title>
             <description><![CDATA[<article><h1>Starbucks Tea Bar</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d637c4d3-492e-419b-a344-e8f8b1f469c1.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The London Coffee Festival 2016 (07 - 10 April)</h1><p>The London Coffee Festival celebrates London's bustling and vibrant coffee scene. This year, 23,642 discerning coffee lovers and industry professionals attended the event from 30 April to 03 May 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b66c01ea2178d487c6803fde7fc65e7b5d451318.jpg"></article>]]></description>
             <link>http://www.londoncoffeefestival.com/</link>
             <guid isPermaLink="false">d4675ec4-7f5f-4f1b-8cfc-8f5305e247d7</guid>
-            <pubDate>Fri, 08 Apr 2016 22:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London Coffee Festival]]></title>
-            <description><![CDATA[<article><h1>London Coffee Festival</h1><p>Returning for 2016, the London Coffee Festival is the UK's largest coffee and artisan food event, a celebration of London's vibrant coffee culture featuring gourmet coffee, speciality tea, artisan food, demonstrations from world-class baristas, live music and a comprehensive 'lab' seminar programme that will educate even the keenest of coffee lovers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/020e956acb42580ce1a78179937a65bee5ec3991.jpg"></article>]]></description>
-            <link>http://www.timeout.com/london/things-to-do/london-coffee-festival-1</link>
-            <guid isPermaLink="false">2e0a9c56-3d22-471a-ad12-84100e6abea0</guid>
             <pubDate>Fri, 08 Apr 2016 22:35:25 GMT</pubDate>
         </item>
     </channel>
