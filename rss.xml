@@ -4,8 +4,15 @@
         <description><![CDATA[Everything coffee in Shoreditch]]></description>
         <link>http://shoreditch.coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 12:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 12:27:21 GMT</lastBuildDate>
         <atom:link href="http://shoreditch.coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Starbucks Tea Bar]]></title>
+            <description><![CDATA[<article><h1>Starbucks Tea Bar</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d637c4d3-492e-419b-a344-e8f8b1f469c1.png"></article>]]></description>
+            <link>http://shoreditch.coffee/starbucks-tea-bar/index.html</link>
+            <guid isPermaLink="false">72fd1d5a-b51b-4c91-a734-60127884c713</guid>
+            <pubDate>Sun, 10 Apr 2016 12:25:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sampling coffee with oat milk]]></title>
             <description><![CDATA[<article><h1>Sampling coffee with oat milk</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0b1709-82b3-42c5-a853-ecbb8aff283c.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.timeout.com/london/things-to-do/london-coffee-festival-1</link>
             <guid isPermaLink="false">2e0a9c56-3d22-471a-ad12-84100e6abea0</guid>
             <pubDate>Fri, 08 Apr 2016 22:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73d19b09-e832-49c8-9afb-31c60eb12fcf.jpg">]]></description>
-            <link>http://shoreditch.coffee/were-pretty-excited-about-the-london-coffee-festival-this-w/index.html</link>
-            <guid isPermaLink="false">9f1852c5-e1a9-49e0-a76f-8f5ae1fe0a0d</guid>
-            <pubDate>Fri, 08 Apr 2016 20:42:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
