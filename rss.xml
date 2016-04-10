@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Shoreditch Coffee]]></title>
-        <description><![CDATA[Shoreditch Coffee]]></description>
+        <title><![CDATA[Everything coffee in Shoreditch]]></title>
+        <description><![CDATA[Everything coffee in Shoreditch]]></description>
         <link>http://shoreditch.coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 17:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 12:13:45 GMT</lastBuildDate>
         <atom:link href="http://shoreditch.coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sampling coffee with oat milk]]></title>
+            <description><![CDATA[<article><h1>Sampling coffee with oat milk</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0b1709-82b3-42c5-a853-ecbb8aff283c.png"></article>]]></description>
+            <link>http://shoreditch.coffee/sampling-coffee-with-oat-milk/index.html</link>
+            <guid isPermaLink="false">011b6e9a-66f3-45da-9c5c-4577d7a75723</guid>
+            <pubDate>Sun, 10 Apr 2016 12:11:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Coffee scenes #LondonCoffeeFestival Where were you @ManCoCoLtd and @HeartandGraft ?pic.twitter.com/wF1vcMT7Cj" src="https://pbs.twimg.com/media/CfnX-kDWwAAftFL.jpg:large">]]></description>
